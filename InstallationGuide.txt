@@ -1,0 +1,9 @@
+Requirements:
+    selenium
+Installation guide:
+    "pip install selenium" for windows
+
+download from this link chromedriver, based on your chrome version
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+change line 10 of BotAnsa.py based on where you place your chromedriver.exe
